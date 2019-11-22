@@ -1,0 +1,3 @@
+<video width="400" height="300" controls="controls">
+  <source src="video/duel.ogv" type='video/ogg; codecs="theora, vorbis"'>
+</video>
